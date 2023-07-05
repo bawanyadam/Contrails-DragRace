@@ -3,19 +3,19 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-love-island-uk
+bsky-drag-race
 
 # displayName
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-Love Island 🏝️
+Drag Race
 
 # description
 
 > This is the description of the feed.
 
-Can I Pull You For a Chat? Tag #li10 for the shortest way to show up here. Weekly discussion by @leigh-chantelle.bsky.social 💋
+A feed of all things Drag Race. Start your engines... and may the best drag queen win! #DragRace 🏁👠
 
 # searchTerms
 
@@ -25,13 +25,10 @@ Can I Pull You For a Chat? Tag #li10 for the shortest way to show up here. Weekl
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts (but not replies or reposts).
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- "#loveisland"
-- "#loveislanduk"
-- "#li10"
-- "#casaamor"
-- "love island"
-- "love island uk"
-- "casa amor"
+- "#dragrace"
+- "Drag Race"
+- "#untucked"
+- "#allstars8"
 
 # safeMode
 
